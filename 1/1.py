@@ -12,7 +12,7 @@ def find_first_last_digit(row):
 
     return result
 
-with open('data/1.data','r') as f:
+with open('input/1.data', 'r') as f:
     data = f.readlines()
     nums = []
 
